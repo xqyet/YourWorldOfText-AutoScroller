@@ -47,15 +47,14 @@ To run this project, ensure that you have the following installed on your system
     - ChromeDriver can be placed in the project’s `bin/Debug/` directory or added to your system's PATH.
 
 4. **Add the GIF file**:
-    - Place your GIF (`anime-cora.gif`) in the project folder.
-    - Ensure that its file path is correctly referenced in the C# code or use a URL as appropriate.
+    - Place your anime GIF (`anime-cora.gif`) in the project folder. (this is extremely important)
 
 5. **Run the Project**:
     - Press **F5** in Visual Studio or click on **Run** to start the project.
 
 6. **Control the Scroll**:
     - Use the on-screen arrow buttons to scroll in different directions.
-    - Use the pause button to stop the scrolling.
+    - Use the pause button to stop the scrolling. That's literally it.
 
 ### Key Components in `Program.cs`
 
